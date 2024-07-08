@@ -2,6 +2,29 @@
 
 This project demonstrates the behavior of throttle, debounce, and a combined throttle-with-debounce function using a React input component. The logs of each function's invocations are displayed for comparison.
 
+## Getting Started
+
+To get the project up and running on your local machine, follow these steps:
+
+1. **Clone the repository**:
+   ```sh
+   git clone <repository-url>
+   ```
+2. **Navigate into the project directory**:
+   ```sh
+   cd throttle_and_debounce_visualization
+   ```
+3. **Install dependencies**:
+   ```sh
+   npm install
+   ```
+4. **Start the development server**:
+   ```sh
+   npm start
+   ```
+
+After running these commands, the application should be available at `http://localhost:3000`
+
 ## Functions
 
 ### Debounce
