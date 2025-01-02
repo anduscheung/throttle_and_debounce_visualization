@@ -4,6 +4,9 @@ This project demonstrates the behavior of throttle, debounce, and a combined thr
 
 ## Demo
 
+![Throttle and Debounce Demo](https://github.com/anduscheung/my-icon-host/blob/main/throttle-and-Debounce-demo.gif)
+
+Live version:
 https://throttle-and-debounce-visualization.netlify.app/
 
 ## Functions
